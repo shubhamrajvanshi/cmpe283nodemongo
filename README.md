@@ -1,11 +1,11 @@
 
 
 # cmpe283nodemongo
-
+Basic nodejs app that reads data from mongodb using mongodb client
 
 
 ## Usage
-
+To use by SJSU students for CMPE-283
 
 
 ## Developing
@@ -14,7 +14,3 @@
 
 ### Tools
 
-Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
-
-Nodeclipse is free open-source project that grows with your contributions.
